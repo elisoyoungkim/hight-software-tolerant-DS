@@ -1,0 +1,4 @@
+Apr 13, 2014 1:23:02 AM com.server.GameServerImpl doLog
+INFO: Account Created 
+Apr 13, 2014 1:24:01 AM com.server.GameServerImpl doLog
+INFO: Successfully signed in

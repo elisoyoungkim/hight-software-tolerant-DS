@@ -1,0 +1,38 @@
+Apr 13, 2014 1:23:02 AM com.server.GameServerImpl doLog
+INFO: Player Creation Request with username: soyoung
+Apr 13, 2014 1:23:02 AM com.server.GameServerImpl doLog
+INFO: Status: Account Created with username: soyoung
+Apr 13, 2014 1:24:01 AM com.server.GameServerImpl doLog
+INFO: SignIn request from username:soyoung
+Apr 13, 2014 1:24:01 AM com.server.GameServerImpl doLog
+INFO: Staus:Successfully signed in
+Apr 13, 2014 1:36:13 AM com.server.GameServerImpl doLog
+INFO: Player Creation Request with username: soyoung123
+Apr 13, 2014 1:36:13 AM com.server.GameServerImpl doLog
+INFO: Status: Account Created with username: soyoung123
+Apr 13, 2014 1:36:13 AM com.server.GameServerImpl doLog
+INFO: Signout request from username:soyoung123
+Apr 13, 2014 1:36:13 AM com.server.GameServerImpl doLog
+INFO: Staus:already signed out
+Apr 13, 2014 1:36:15 AM com.server.GameServerImpl doLog
+INFO: SignIn request from username:soyoung123
+Apr 13, 2014 1:36:15 AM com.server.GameServerImpl doLog
+INFO: Staus:Successfully signed in
+Apr 13, 2014 1:36:17 AM com.server.GameServerImpl doLog
+INFO: Signout request from username:soyoung123
+Apr 13, 2014 1:36:17 AM com.server.GameServerImpl doLog
+INFO: Staus:Signed out successfully
+Apr 13, 2014 1:38:59 AM com.server.GameServerImpl doLog
+INFO: Status: player creation failed
+Apr 13, 2014 1:38:59 AM com.server.GameServerImpl doLog
+INFO: Signout request from username:soyoung123
+Apr 13, 2014 1:38:59 AM com.server.GameServerImpl doLog
+INFO: Staus:already signed out
+Apr 13, 2014 1:39:01 AM com.server.GameServerImpl doLog
+INFO: SignIn request from username:soyoung123
+Apr 13, 2014 1:39:01 AM com.server.GameServerImpl doLog
+INFO: Staus:Successfully signed in
+Apr 13, 2014 1:39:03 AM com.server.GameServerImpl doLog
+INFO: Signout request from username:soyoung123
+Apr 13, 2014 1:39:03 AM com.server.GameServerImpl doLog
+INFO: Staus:Signed out successfully

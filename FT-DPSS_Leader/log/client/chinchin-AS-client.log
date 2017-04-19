@@ -1,0 +1,12 @@
+Apr 13, 2014 12:36:05 AM com.gamelib.helpers.LogHelper createLog
+INFO: Account successfully created. 
+
+Apr 13, 2014 12:37:19 AM com.gamelib.helpers.LogHelper createLog
+INFO: Account suspended with username : chinchin
+
+Apr 13, 2014 12:40:09 AM com.gamelib.helpers.LogHelper createLog
+INFO: Account successfully created. 
+
+Apr 13, 2014 12:41:04 AM com.gamelib.helpers.LogHelper createLog
+INFO: Account suspended with username : chinchin
+

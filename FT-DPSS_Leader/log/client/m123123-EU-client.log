@@ -1,0 +1,12 @@
+Apr 12, 2014 4:16:08 AM com.gamelib.helpers.LogHelper createLog
+INFO: Account successfully created. 
+
+Apr 12, 2014 4:17:32 AM com.gamelib.helpers.LogHelper createLog
+INFO: Sign in successfully
+
+Apr 12, 2014 4:17:46 AM com.gamelib.helpers.LogHelper createLog
+INFO: Sign Out successfully
+
+Apr 12, 2014 4:32:23 AM com.gamelib.helpers.LogHelper createLog
+INFO: Sign in successfully
+

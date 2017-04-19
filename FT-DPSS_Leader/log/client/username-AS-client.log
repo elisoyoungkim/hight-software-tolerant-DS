@@ -1,0 +1,36 @@
+Apr 13, 2014 12:20:47 AM com.gamelib.helpers.LogHelper createLog
+INFO: Account successfully created. 
+
+Apr 13, 2014 12:20:49 AM com.gamelib.helpers.LogHelper createLog
+INFO: Account suspended with username : username
+
+Apr 13, 2014 12:22:11 AM com.gamelib.helpers.LogHelper createLog
+INFO: Account successfully created. 
+
+Apr 13, 2014 12:22:13 AM com.gamelib.helpers.LogHelper createLog
+INFO: Account suspended with username : username
+
+Apr 13, 2014 12:26:37 AM com.gamelib.helpers.LogHelper createLog
+INFO: Account successfully created. 
+
+Apr 13, 2014 12:26:39 AM com.gamelib.helpers.LogHelper createLog
+INFO: Account suspended with username : username
+
+Apr 13, 2014 12:29:19 AM com.gamelib.helpers.LogHelper createLog
+INFO: Account successfully created. 
+
+Apr 13, 2014 12:29:21 AM com.gamelib.helpers.LogHelper createLog
+INFO: Account suspended with username : username
+
+Apr 13, 2014 12:30:48 AM com.gamelib.helpers.LogHelper createLog
+INFO: Account successfully created. 
+
+Apr 13, 2014 12:30:50 AM com.gamelib.helpers.LogHelper createLog
+INFO: Account suspended with username : username
+
+Apr 13, 2014 12:30:56 AM com.gamelib.helpers.LogHelper createLog
+INFO: Account suspended with username : username
+
+Apr 13, 2014 12:31:07 AM com.gamelib.helpers.LogHelper createLog
+INFO: Account suspended with username : username
+

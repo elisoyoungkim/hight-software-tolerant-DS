@@ -1,0 +1,42 @@
+Apr 13, 2014 1:22:59 AM com.server.ServerImpl createPlayerAccount
+INFO: IP: 132.67.162. attempted to create account.
+Account creation successful.
+Apr 13, 2014 1:23:59 AM com.server.ServerImpl playerSignIn
+INFO: IP: 132.165.82.12 attempted to sign in .
+soyoung successfully signed in.
+Apr 13, 2014 1:36:11 AM com.server.ServerImpl createPlayerAccount
+INFO: IP: 132.2.2.2 attempted to create account.
+Account creation successful.
+Apr 13, 2014 1:36:13 AM com.server.ServerImpl playerSignOut
+INFO: IP: 132.0.5.0 attempted to sign out.
+1 failed to sign out: already signed out.
+Apr 13, 2014 1:36:15 AM com.server.ServerImpl playerSignIn
+INFO: IP: 132.0.0.0 attempted to sign in .
+soyoung123 successfully signed in.
+Apr 13, 2014 1:36:17 AM com.server.ServerImpl playerSignOut
+INFO: IP: 132.0.5.0 attempted to sign out.
+soyoung123 successfully signed out.
+Apr 13, 2014 1:36:19 AM com.server.ServerImpl createPlayerAccount
+INFO: IP: 182.2.2.2 attempted to create account.
+Account creation successful.
+Apr 13, 2014 1:36:21 AM com.server.ServerImpl playerSignOut
+INFO: IP: 182.0.5.0 attempted to sign out.
+1 failed to sign out: already signed out.
+Apr 13, 2014 1:38:57 AM com.server.ServerImpl createPlayerAccount
+INFO: IP: 132.2.2.2 attempted to create account.
+Account creation failed: username soyoung123 already exists.
+Apr 13, 2014 1:38:59 AM com.server.ServerImpl playerSignOut
+INFO: IP: 132.0.5.0 attempted to sign out.
+1 failed to sign out: already signed out.
+Apr 13, 2014 1:39:01 AM com.server.ServerImpl playerSignIn
+INFO: IP: 132.0.0.0 attempted to sign in .
+soyoung123 successfully signed in.
+Apr 13, 2014 1:39:03 AM com.server.ServerImpl playerSignOut
+INFO: IP: 132.0.5.0 attempted to sign out.
+soyoung123 successfully signed out.
+Apr 13, 2014 1:39:05 AM com.server.ServerImpl createPlayerAccount
+INFO: IP: 182.2.2.2 attempted to create account.
+Account creation failed: username soyoung123 already exists.
+Apr 13, 2014 1:39:07 AM com.server.ServerImpl playerSignOut
+INFO: IP: 182.0.5.0 attempted to sign out.
+1 failed to sign out: already signed out.

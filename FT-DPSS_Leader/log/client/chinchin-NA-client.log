@@ -1,0 +1,9 @@
+Apr 11, 2014 3:19:11 AM com.gamelib.helpers.LogHelper createLog
+INFO: Account successfully created. 
+
+Apr 11, 2014 3:21:36 AM com.gamelib.helpers.LogHelper createLog
+INFO: Account suspended with username : chinchin
+
+Apr 11, 2014 3:21:36 AM com.gamelib.helpers.LogHelper createLog
+INFO: account transferred to EU ( 93.44.237.21 ) with username : chinchin
+

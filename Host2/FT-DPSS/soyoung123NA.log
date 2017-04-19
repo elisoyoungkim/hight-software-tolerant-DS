@@ -1,0 +1,14 @@
+Apr 13, 2014 1:36:13 AM com.server.GameServerImpl doLog
+INFO: Account Created 
+Apr 13, 2014 1:36:13 AM com.server.GameServerImpl doLog
+INFO: already signed out
+Apr 13, 2014 1:36:15 AM com.server.GameServerImpl doLog
+INFO: Successfully signed in
+Apr 13, 2014 1:36:17 AM com.server.GameServerImpl doLog
+INFO: Successfully signed out
+Apr 13, 2014 1:38:59 AM com.server.GameServerImpl doLog
+INFO: already signed out
+Apr 13, 2014 1:39:01 AM com.server.GameServerImpl doLog
+INFO: Successfully signed in
+Apr 13, 2014 1:39:03 AM com.server.GameServerImpl doLog
+INFO: Successfully signed out
